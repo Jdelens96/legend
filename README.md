@@ -4,7 +4,7 @@
 
 # Legend
 
-Legend provides an **end-to-end data platform experience covering the full data lifecycle**. It encompasses a suite of data management and governance components known as the **Legend Platform**. Legend enables breaking down silos and building a critical bridge over the historical divide between business and engineering, allowing companies to build data-driven applications and insightful business intelligence dashboards. Legend also includes novel features that accelerate data curation, exchange, and sharing such as:
+Legend provides an **end-to-end data platform experience covering the full data lifecycle**. It encompasses a suite of data management and governance components known as the **Legend Platform**. Legend enables breaking down silos and building a critical bridge over the historical divide between business and engineering, allowing companies to build data-driven applications and insightful business intelligence dashboards. Legend also includes novel features that accelerate data curation, exchange, and sharing such as:.
 
 - Consistent data vocabularies
 - Self-service capabilities for retrieving and working with data, while respecting the entitlements of underlying sources
